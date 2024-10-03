@@ -1,6 +1,8 @@
 # Compiler files
 cache/
 out/
+zkout/
+foundry-zksync/
 
 # Ignores development broadcast logs
 !/broadcast
